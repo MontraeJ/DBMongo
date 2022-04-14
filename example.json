@@ -1,0 +1,7 @@
+{
+    "products": [
+        {"id": 0, "name": "LIghtsaber", "description": "Coolest weapon ever"},
+        {"id": 1, "name": "Blaster", "description": "Coolest weapon ever"},
+        {"id": 2, "name": "Starship", "description": "Coolest weapon ever"}
+    ]
+}
